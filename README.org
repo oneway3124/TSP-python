@@ -37,6 +37,8 @@ running:
 convert -delay 10 -loop 0 *.png animation.gif
 #+END_SRC
 
+这里请使用我们自己的python 在diagrams目录中generate-gif.py和break-gif.py
+
 This code is licensed under MIT License, so feel free to modify and/or use it
 in your projects. If you have any doubts, feel free to contact me or contribute
 to this repository by creating an issue.
